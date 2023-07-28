@@ -39,7 +39,7 @@ Note that the content of the "successful" response from the server is not
 important here — we only care that it's successful. This means you will not need
 to call `.json()` on the response so you only need a single `then()` call.
 
-Here's the specification:
+Here's the specification:.
 
 * Add the `.hidden` class to the error modal in the HTML so it does not appear
   when the page first loads
